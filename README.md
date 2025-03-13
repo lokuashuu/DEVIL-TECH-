@@ -32,13 +32,13 @@ DEVIL TECH MD BY CYBER LOKU ASHUU 💗
 
 
 <p align="center">
-<a href="https://github.com/lokuashuu/DEVIL-TECH"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/lokuashuu/DEVIL-TECH-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH-&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/lokuashuu/DEVIL-TECH"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/lokuashuu/DEVIL-TECH-"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -48,7 +48,7 @@ DEVIL TECH MD BY CYBER LOKU ASHUU 💗
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/lokuashuu/DEVIL-TECH/fork"><img title="DEVIL-TECH" src="https://img.shields.io/badge/FORK-DEVIL-TECH?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/lokuashuu/DEVIL-TECH-/fork"><img title="DEVIL-TECH" src="https://img.shields.io/badge/FORK-DEVIL-TECH-?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -86,14 +86,14 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/lokuashuu/DEVIL-TECH/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/lokuashuu/DEVIL-TECH-/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">4. koyed</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
   
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=lokuashuu/DEVIL-TECH&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=lokuashuu/DEVIL-TECH-&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">4. Railway</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -125,13 +125,13 @@ You will need a session ID to run the KHAN-MD. Click the button below to obtain 
 
   <p align="center">
 <a href="https://github.com/lokuashuu/followers"><img title="Followers" src="https://img.shields.io/github/followers/lokuashuu?color=blue&style=square"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lokuashuu/DEVIL-TECH?color=blue&style=square"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lokuashuu/DEVIL-TECH?color=blue&style=square"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/"><img title="Size" src="https://img.shields.io/github/repo-size/lokuashuu/DEVIL-TECH?style=square&color=green"></a>
-<a href="https://github.com/lokuashuu/DEVIL-TECH/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/lokuashuu/DEVIL-TECH-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lokuashuu/DEVIL-TECH-?color=blue&style=square"></a>
+<a href="https://github.com/lokuashuu/DEVIL-TECH-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lokuashuu/DEVIL-TECH-?color=blue&style=square"></a>
+<a href="https://github.com/lokuashuu/DEVIL-TECH-/"><img title="Size" src="https://img.shields.io/github/repo-size/lokuashuu/DEVIL-TECH-?style=square&color=green"></a>
+<a href="https://github.com/lokuashuu/DEVIL-TECH-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
  <p align="center">
-<a href="https://github.com/lokuashuu/DEVIL-TECH/blob/main/LICENSE"><img title="Followers" src="https://img.shields.io/github/license/lokuashuu/DEVIL-TECH?color=green&label=License&style=square"></a>
+<a href="https://github.com/lokuashuu/DEVIL-TECH-/blob/main/LICENSE"><img title="Followers" src="https://img.shields.io/github/license/lokuashuu/DEVIL-TECH-?color=green&label=License&style=square"></a>
 
 ----
 
